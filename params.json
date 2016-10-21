@@ -1,6 +1,6 @@
 {
   "name": "Denmark monitor",
   "tagline": "Monitored data from denmark road",
-  "body": "<iframe width=\"900\" height=\"800\" frameborder=\"0\" scrolling=\"no\" src=\"//plot.ly/~edsharp/8.embed\"></iframe>",
+  "body": "# Latest month timeseries plot\r\n\r\n\r\n\r\n\r\n# Previous months timeseries plot, choice of months\r\n\r\n\r\n\r\n# histogram of humidity and temperature over full timeseries",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
