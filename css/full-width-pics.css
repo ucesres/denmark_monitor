@@ -18,12 +18,12 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: url('https://dl.dropboxusercontent.com/u/4076462/IMAG0715.jpg') no-repeat center center scroll;
+	background: url('https://dl.dropboxusercontent.com/u/4076462/stad.jpg') no-repeat center center scroll;
     padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-	background: url('https://dl.dropboxusercontent.com/u/4076462/IMAG0715.jpg') no-repeat center center scroll;
+	background: url('https://dl.dropboxusercontent.com/u/4076462/stad.jpg') no-repeat center center scroll;
     height: 450px;
 }
 
